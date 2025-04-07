@@ -38,6 +38,8 @@ Join us on [Zulip][zulip] to chat with developers and other community members.
 
 See the docs in our [developer guide][docs-site/dev-guide].
 
+zzx is here.
+
 [bug-report]: https://github.com/y-scope/yscope-log-viewer/issues/new?labels=bug&template=bug-report.yml
 [bugs-shield]: https://img.shields.io/github/issues/y-scope/yscope-log-viewer/bug?label=bugs
 [clp-repo]: https://github.com/y-scope/clp
